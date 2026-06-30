@@ -1,6 +1,4 @@
 
-
-
 <h1 data-importer="text" align="center">Olá Mundo 🌍</h1>
 
 
@@ -69,11 +67,11 @@
     </ul>
  
 
+---
 
 
 
-<details>
-      <summary><h4>Estou aprendendo 🧠</h4></summary>
+  <summary><h4>Estou aprendendo 🧠</h4></summary>
               <div data-importer="techs" align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
           <img width="12" />
@@ -82,21 +80,19 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
         </div>
   
-</details>
 
 
 
 
 
 
+---
 
 
 
 
 
-<details>
-      <summary><h4>Ferramentas 🧰</h4></summary>
-
+  <summary><h4>Ferramentas 🧰</h4></summary>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -104,9 +100,13 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-</details>
+---
 
 
+
+<p align="center">
+  <img  width="300" height="300" alt="21-45-34-3_512" src="https://github.com/user-attachments/assets/15f9d5c1-d767-4023-a2c4-8111c3a22b74" />
+</p>
 
 
 
